@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/ke262/Leetcode/tree/master/0001-two-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ke262/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [1046-last-stone-weight](https://github.com/ke262/Leetcode/tree/master/1046-last-stone-weight) |
 ## Heap (Priority Queue)
@@ -23,4 +24,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/ke262/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/ke262/Leetcode/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->

@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/ke262/Leetcode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0485-max-consecutive-ones](https://github.com/ke262/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0973-k-closest-points-to-origin](https://github.com/ke262/Leetcode/tree/master/0973-k-closest-points-to-origin) |
+| [1004-max-consecutive-ones-iii](https://github.com/ke262/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-last-stone-weight](https://github.com/ke262/Leetcode/tree/master/1046-last-stone-weight) |
 | [1584-min-cost-to-connect-all-points](https://github.com/ke262/Leetcode/tree/master/1584-min-cost-to-connect-all-points) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ke262/Leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ke262/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [1004-max-consecutive-ones-iii](https://github.com/ke262/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 ## Matrix
 |  |
 | ------- |
@@ -201,5 +203,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/ke262/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ke262/Leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+## Prefix Sum
+|  |
+| ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/ke262/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
